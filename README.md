@@ -1,5 +1,8 @@
 # PyRedis
 
+<img src='pyredis.png' width='250px'/>
+
+
 A simple, in-memory key-value store inspired by Redis, designed for educational purposes. PyRedis supports basic key-value operations, expiration times (TTL), and automatic saving/loading of data from a JSON file.
 
 ## Features
